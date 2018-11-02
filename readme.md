@@ -6,6 +6,10 @@ mode file is here:[baidu pan](https://pan.baidu.com/s/1hA8fYBB5NAjG5rUN8X29aQ])
 |------|------|------|
 |99.8|98.7|97.0|
 
+update:
+
+2018/11/2:train by insight_face_emore,the model file is here:[baidu pan](https://pan.baidu.com/s/1siianQWuX4FTTPB0j4VL7A)
+
 some motivation of this network:
 
 1.the main calculation of ResNet is focus on the convolution on front layer
